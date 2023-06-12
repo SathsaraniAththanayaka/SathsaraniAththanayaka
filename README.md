@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://www.neilhillier.com/wp-content/uploads/2018/03/matrix-1500-x-400.gif) -->
-![MasterHead](https://www.polyu.edu.hk/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif)
+![MasterHead](https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Sathsarani</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
 
