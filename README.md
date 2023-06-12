@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://www.neilhillier.com/wp-content/uploads/2018/03/matrix-1500-x-400.gif) -->
-![MasterHead](https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif)
+![MasterHead](https://images.theconversation.com/files/490334/original/file-20221018-4769-ep7hqv.gif?ixlib=rb-1.1.0&rect=0%2C29%2C1797%2C898&q=45&auto=format&w=1356&h=668&fit=crop)
 <h1 align="center">Hi 👋, I'm Sathsarani</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
 
