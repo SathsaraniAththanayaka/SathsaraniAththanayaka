@@ -13,9 +13,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
 
-- 🔭 I’m currently working on [Smart Medicine Dispenser](https://github.com/cepdnaclk/e18-3yp-Smart-Medicine-Dispenser)
+- 🔭 I’m currently working on [Machine Learning for analyzing eggs hatchability]([https://github.com/cepdnaclk/e18-3yp-Smart-Medicine-Dispenser](https://github.com/cepdnaclk/e18-6sp-ML-for-Analyzing-Egg-Hatching))
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sathsarani15920@gmail.com**
 
